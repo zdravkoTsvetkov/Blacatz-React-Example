@@ -1,0 +1,23 @@
+.menu {
+    background: #333;
+    padding: 10px;
+}
+.toggle {
+    text-align: right;
+}
+.toggle button {
+    background: unset;
+    color: white;
+    border: unset;
+}
+.toggle button:hover {
+    cursor:pointer;
+}
+.menu li {
+    list-style-type: none;
+    margin-bottom: 10px;
+}
+.menu li a {
+    color: white;
+    text-decoration: none;
+}

@@ -1,0 +1,29 @@
+.container {
+    background: #b1b1e5;
+    text-align: center;
+    margin: 2rem;
+  }
+  
+  input {
+    padding: 0.5rem;
+    margin-right: 1rem;
+  }
+  
+  label {
+    display: inline-block;
+    margin-right: 1rem;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1rem;
+  }
+  
+  table, th, td {
+    border: 1px solid #ccc;
+  }
+  
+  th, td {
+    padding: 0.5rem;
+  }
